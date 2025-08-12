@@ -1,0 +1,22 @@
+{
+  "name": "esp32-pasori-rcs300",
+  "keywords": "ESP32, USB Host, PaSoRi, Felica",
+  "description": "ESP32-S3/S2 library for reading Felica IDm and PMm via PaSoRi (RC-S300)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/laddge/esp32-pasori-rcs300.git"
+  },
+  "authors": [
+    {
+      "name": "Laddge",
+      "email": "dev.laddge@gmail.com",
+      "url": "https://laddge.net",
+      "maintainer": true
+    }
+  ],
+  "license": "MIT",
+  "dependencies": [],
+  "version": "0.1.0",
+  "frameworks": "arduino",
+  "platforms": "espressif32"
+}
